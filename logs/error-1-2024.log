@@ -1,0 +1,304 @@
+[2024-01-04T07:49:46.986] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:51:17.782] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:52:45.800] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:53:27.154] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:53:28.365] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:53:29.581] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-04T07:53:30.812] [ERROR] monthly - [
+  {
+    params: '{"data":[{"id":"6595539dcad9c0bf3a3535f4","ordering":42},{"id":"659552f1cad9c0bf3a353533","ordering":43}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"model":"user"}',
+    error: TypeError: Cannot read properties of null (reading 'modifiedCount')
+        at Object.exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/repository/common.repository.js:52:24)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.saveOrdering (/home/iosx/partyfixersapi.iosx.in/controllers/user.controller.js:35:16)
+  }
+]
+[2024-01-10T08:31:06.423] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:34:44.052] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:34:58.039] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:35:09.711] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:36:07.625] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:36:33.769] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:36:57.829] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-10T08:37:21.078] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","email":"admin@partyfixer.com","phone":"9087654321","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"658d48500435fa1bcb565449"},"roleCode":"admin"}}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: $concat only supports strings, not object
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 16702,
+      codeName: 'Location16702',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-22T08:31:52.001] [ERROR] monthly - [
+  {
+    params: '{}',
+    error: MongoServerError: PlanExecutor error during aggregation :: caused by :: The argument to $size must be an array, but was of type: missing
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 17124,
+      codeName: 'Location17124',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-22T08:33:50.330] [ERROR] monthly - [
+  {
+    params: '{"sortQuery":"- createdAt"}',
+    error: MongoServerError: FieldPath cannot be constructed with empty string
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 40352,
+      codeName: 'Location40352',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-01-29T11:55:46.447] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"65adf1ac1698fee68b0d9d4d"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"bannerImg":[]}',
+    error: TypeError: Cannot read properties of undefined (reading 'map')
+        at Object.exports.manage (/home/iosx/partyfixersapi.iosx.in/repository/page.repository.js:120:28)
+        at exports.manage (/home/iosx/partyfixersapi.iosx.in/controllers/page.controller.js:17:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:74:14
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+  }
+]
+[2024-01-29T11:55:55.504] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"65adf1ac1698fee68b0d9d4d"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"},"bannerImg":[]}',
+    error: TypeError: Cannot read properties of undefined (reading 'map')
+        at Object.exports.manage (/home/iosx/partyfixersapi.iosx.in/repository/page.repository.js:120:28)
+        at exports.manage (/home/iosx/partyfixersapi.iosx.in/controllers/page.controller.js:17:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:74:14
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+  }
+]

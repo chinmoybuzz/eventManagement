@@ -1,0 +1,617 @@
+[2024-02-09T13:32:58.515] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:33:43.068] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:33:55.049] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:34:11.886] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:35:35.300] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:36:20.299] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:37:01.503] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:37:06.272] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:37:23.559] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:40:08.462] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:41:53.468] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:42:32.941] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:42:50.372] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-09T13:45:22.852] [ERROR] monthly - [
+  {
+    params: '{"vendorId":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.review (/home/iosx/partyfixersapi.iosx.in/repository/review.repository.js:192:39)
+        at exports.review (/home/iosx/partyfixersapi.iosx.in/controllers/review.controller.js:15:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at Route.dispatch (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:114:3)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at /home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:284:15
+        at Function.process_params (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:346:12)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/index.js:280:10)
+  }
+]
+[2024-02-10T17:19:48.106] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"},"id":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.findOneData (/home/iosx/partyfixersapi.iosx.in/repository/enquiry.repository.js:111:20)
+        at exports.findOneData (/home/iosx/partyfixersapi.iosx.in/controllers/enquiry.controller.js:10:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:34:7
+        at JwtStrategy.strategy.success (/home/iosx/partyfixersapi.iosx.in/node_modules/passport/lib/middleware/authenticate.js:222:18)
+        at verified (/home/iosx/partyfixersapi.iosx.in/node_modules/passport-jwt/lib/strategy.js:115:41)
+        at /home/iosx/partyfixersapi.iosx.in/strategies/JWTStrategy.js:34:18
+        at runMicrotasks (<anonymous>)
+  }
+]
+[2024-02-12T13:01:47.746] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"},"id":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.findOneData (/home/iosx/partyfixersapi.iosx.in/repository/enquiry.repository.js:111:20)
+        at exports.findOneData (/home/iosx/partyfixersapi.iosx.in/controllers/enquiry.controller.js:10:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:34:7
+        at JwtStrategy.strategy.success (/home/iosx/partyfixersapi.iosx.in/node_modules/passport/lib/middleware/authenticate.js:222:18)
+        at verified (/home/iosx/partyfixersapi.iosx.in/node_modules/passport-jwt/lib/strategy.js:115:41)
+        at /home/iosx/partyfixersapi.iosx.in/strategies/JWTStrategy.js:34:18
+        at runMicrotasks (<anonymous>)
+  }
+]
+[2024-02-13T08:27:29.609] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"},"id":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.findOneData (/home/iosx/partyfixersapi.iosx.in/repository/enquiry.repository.js:111:20)
+        at exports.findOneData (/home/iosx/partyfixersapi.iosx.in/controllers/enquiry.controller.js:10:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:34:7
+        at JwtStrategy.strategy.success (/home/iosx/partyfixersapi.iosx.in/node_modules/passport/lib/middleware/authenticate.js:222:18)
+        at verified (/home/iosx/partyfixersapi.iosx.in/node_modules/passport-jwt/lib/strategy.js:115:41)
+        at /home/iosx/partyfixersapi.iosx.in/strategies/JWTStrategy.js:34:18
+        at runMicrotasks (<anonymous>)
+  }
+]
+[2024-02-13T11:55:01.283] [ERROR] monthly - [
+  {
+    params: '{"forId":"657704a5ddee3e208156b49a","addedBy":"user","sortQuery":"-createdAt","offset":"-2","limit":"2"}',
+    error: MongoServerError: invalid argument to $skip stage: Expected a non-negative number in: $skip: -2
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 5107200,
+      codeName: 'Location5107200',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-13T11:55:11.658] [ERROR] monthly - [
+  {
+    params: '{"forId":"657704a5ddee3e208156b49a","addedBy":"user","sortQuery":"-createdAt","offset":"-2","limit":"2"}',
+    error: MongoServerError: invalid argument to $skip stage: Expected a non-negative number in: $skip: -2
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 5107200,
+      codeName: 'Location5107200',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-13T11:55:21.794] [ERROR] monthly - [
+  {
+    params: '{"forId":"657704a5ddee3e208156b49a","addedBy":"user","sortQuery":"-createdAt","offset":"-2","limit":"2"}',
+    error: MongoServerError: invalid argument to $skip stage: Expected a non-negative number in: $skip: -2
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 5107200,
+      codeName: 'Location5107200',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-13T11:55:32.066] [ERROR] monthly - [
+  {
+    params: '{"forId":"657704a5ddee3e208156b49a","addedBy":"user","sortQuery":"-createdAt","offset":"-2","limit":"2"}',
+    error: MongoServerError: invalid argument to $skip stage: Expected a non-negative number in: $skip: -2
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 5107200,
+      codeName: 'Location5107200',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-13T12:08:10.062] [ERROR] monthly - [
+  {
+    params: '{"id":"65cb23ca5cd43ca747f7016a","answer":["65cb23ca5cd43ca747f7016a"],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"65adf1ac1698fee68b0d9d4d"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"}}',
+    error: MongoServerError: Updating the path 'answer' would create a conflict at 'answer'
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 40,
+      codeName: 'ConflictingUpdateOperators',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-13T12:09:43.194] [ERROR] monthly - [
+  {
+    params: '{"id":"65cb23ca5cd43ca747f7016a","answer":["FAQ pages continue to be a priority area for SEO and digital marketing professionals.","An FAQ page is one of the simplest ways to improve your site and help site visitors and users.","Your FAQ section should be seen as a constantly expanding source of value provided to your audience. It is a place where their ever-changing and growing requirements are not only met but anticipated and exceeded frequently.","In no small part, the importance of FAQ pages has been driven in recent years by the growth in voice search, mobile search, and personal/home assistants and speakers.","These predominantly rely on the pre-results (Google Answers and Featured Snippets) and can be explicitly targeted with FAQ pages.","65cb23ca5cd43ca747f7016a"],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"65adf1ac1698fee68b0d9d4d"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"}}',
+    error: MongoServerError: Updating the path 'answer' would create a conflict at 'answer'
+        at Connection.onMessage (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:202:26)
+        at MessageStream.<anonymous> (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/connection.js:61:60)
+        at MessageStream.emit (node:events:513:28)
+        at processIncomingData (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:124:16)
+        at MessageStream._write (/home/iosx/partyfixersapi.iosx.in/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+        at writeOrBuffer (node:internal/streams/writable:391:12)
+        at _write (node:internal/streams/writable:332:10)
+        at MessageStream.Writable.write (node:internal/streams/writable:336:10)
+        at Socket.ondata (node:internal/streams/readable:754:22)
+        at Socket.emit (node:events:513:28) {
+      ok: 0,
+      code: 40,
+      codeName: 'ConflictingUpdateOperators',
+      [Symbol(errorLabels)]: Set(0) {}
+    }
+  }
+]
+[2024-02-14T11:50:57.231] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"}}',
+    error: CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "faqs"
+        at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:250:11)
+        at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+        at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+        at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+        at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+        at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+        at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+        at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+      stringValue: '"{ _id: undefined }"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: [Object],
+      path: '_id',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+          at castObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast/objectid.js:25:12)
+          at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:248:12)
+          at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+          at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+          at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+          at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+          at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+          at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+          at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28),
+      valueType: 'Object',
+      model: Model { faqs }
+    }
+  }
+]
+[2024-02-14T14:36:18.670] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"},"id":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.findOneData (/home/iosx/partyfixersapi.iosx.in/repository/enquiry.repository.js:111:20)
+        at exports.findOneData (/home/iosx/partyfixersapi.iosx.in/controllers/enquiry.controller.js:10:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:34:7
+        at JwtStrategy.strategy.success (/home/iosx/partyfixersapi.iosx.in/node_modules/passport/lib/middleware/authenticate.js:222:18)
+        at verified (/home/iosx/partyfixersapi.iosx.in/node_modules/passport-jwt/lib/strategy.js:115:41)
+        at /home/iosx/partyfixersapi.iosx.in/strategies/JWTStrategy.js:34:18
+        at runMicrotasks (<anonymous>)
+  }
+]
+[2024-02-16T14:14:52.866] [ERROR] monthly - [
+  {
+    params: '{"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"},"id":"undefined"}',
+    error: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+        at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+        at Object.exports.findOneData (/home/iosx/partyfixersapi.iosx.in/repository/enquiry.repository.js:111:20)
+        at exports.findOneData (/home/iosx/partyfixersapi.iosx.in/controllers/enquiry.controller.js:10:33)
+        at Layer.handle [as handle_request] (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/layer.js:95:5)
+        at next (/home/iosx/partyfixersapi.iosx.in/node_modules/express/lib/router/route.js:144:13)
+        at /home/iosx/partyfixersapi.iosx.in/middlewares/auth.middleware.js:34:7
+        at JwtStrategy.strategy.success (/home/iosx/partyfixersapi.iosx.in/node_modules/passport/lib/middleware/authenticate.js:222:18)
+        at verified (/home/iosx/partyfixersapi.iosx.in/node_modules/passport-jwt/lib/strategy.js:115:41)
+        at /home/iosx/partyfixersapi.iosx.in/strategies/JWTStrategy.js:34:18
+        at runMicrotasks (<anonymous>)
+  }
+]
+[2024-02-17T07:55:02.906] [ERROR] monthly - [
+  {
+    params: '{"answerId":"65cc46f9727d3d55c5ca702b","unhelpful":true,"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"}}',
+    error: CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "faqs"
+        at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:250:11)
+        at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+        at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+        at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+        at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+        at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+        at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+        at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+      stringValue: '"{ _id: undefined }"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: [Object],
+      path: '_id',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+          at castObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast/objectid.js:25:12)
+          at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:248:12)
+          at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+          at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+          at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+          at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+          at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+          at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+          at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28),
+      valueType: 'Object',
+      model: Model { faqs }
+    }
+  }
+]
+[2024-02-17T07:55:09.509] [ERROR] monthly - [
+  {
+    params: '{"answerId":"65cc46f9727d3d55c5ca702b","helpful":true,"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"}}',
+    error: CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "faqs"
+        at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:250:11)
+        at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+        at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+        at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+        at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+        at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+        at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+        at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async Object.exports.helpfulUnhelpful (/home/iosx/partyfixersapi.iosx.in/repository/faq.repository.js:203:16) {
+      stringValue: '"{ _id: undefined }"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: [Object],
+      path: '_id',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+          at castObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast/objectid.js:25:12)
+          at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:248:12)
+          at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+          at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+          at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+          at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+          at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+          at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+          at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28),
+      valueType: 'Object',
+      model: Model { faqs }
+    }
+  }
+]
+[2024-02-17T07:55:15.648] [ERROR] monthly - [
+  {
+    params: '{"answerId":"65cc46f9727d3d55c5ca702b","helpful":true,"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"}}',
+    error: CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "faqs"
+        at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:250:11)
+        at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+        at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+        at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+        at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+        at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+        at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+        at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async Object.exports.helpfulUnhelpful (/home/iosx/partyfixersapi.iosx.in/repository/faq.repository.js:203:16) {
+      stringValue: '"{ _id: undefined }"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: [Object],
+      path: '_id',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+          at castObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast/objectid.js:25:12)
+          at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:248:12)
+          at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+          at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+          at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+          at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+          at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+          at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+          at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28),
+      valueType: 'Object',
+      model: Model { faqs }
+    }
+  }
+]
+[2024-02-17T07:55:30.625] [ERROR] monthly - [
+  {
+    params: '{"answerId":"65cc46f9727d3d55c5ca702b","helpful":true,"authUser":{"_id":"656f1483330654d639ee5698","fullname":{"firstName":"Gautam","lastName":"Das","_id":"657ffd0bf9a6663bf70b0972"},"username":"gautamdas","role":"user","email":"gautam@mailinator.com"}}',
+    error: CastError: Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "faqs"
+        at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:250:11)
+        at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+        at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+        at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+        at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+        at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+        at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+        at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async Object.exports.helpfulUnhelpful (/home/iosx/partyfixersapi.iosx.in/repository/faq.repository.js:203:16) {
+      stringValue: '"{ _id: undefined }"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: [Object],
+      path: '_id',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/bson/lib/bson.cjs:2055:23)
+          at castObjectId (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast/objectid.js:25:12)
+          at ObjectId.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schema/objectid.js:248:12)
+          at ObjectId.SchemaType.applySetters (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1219:12)
+          at ObjectId.SchemaType.castForQuery (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/schematype.js:1633:15)
+          at cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/cast.js:304:34)
+          at model.Query.Query.cast (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4909:12)
+          at model.Query.Query._castConditions (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2232:10)
+          at model.Query._findOne (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:2518:8)
+          at model.Query.exec (/home/iosx/partyfixersapi.iosx.in/node_modules/mongoose/lib/query.js:4429:28),
+      valueType: 'Object',
+      model: Model { faqs }
+    }
+  }
+]
+[2024-02-27T13:57:22.207] [ERROR] monthly - [
+  {
+    params: '{"id":"65684d327845a999e3d9b06b","social":[{"code":"facebook","url":"https://www.facebook.com/partyfixer"},{"code":"instagram","url":"https://www.instagram.com/partyfixer"},{"code":"twitter","url":"https://twitter.com/partyfixer"},{"code":"whatsapp","url":"https://www.whatsapp.com/"},{"code":"snapchat","url":"https://www.snapchat.com/"},{"code":"github","url":"https://www.github.com/"},{"code":"","url":""}],"authUser":{"_id":"64215721b9333e9eefa39a47","fullname":{"firstName":"Admin  ","lastName":"Party Fixer    ","_id":"65adf1ac1698fee68b0d9d4d"},"username":"admin@partyfixer","role":"admin","email":"admin@partyfixer.com"}}',
+    error: TypeError: Cannot destructure property '_id' of '(intermediate value)' as it is undefined.
+        at /home/iosx/partyfixersapi.iosx.in/repository/siteSetting.repository.js:49:17
+        at Array.map (<anonymous>)
+        at Object.exports.edit (/home/iosx/partyfixersapi.iosx.in/repository/siteSetting.repository.js:47:37)
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5)
+        at async exports.edit (/home/iosx/partyfixersapi.iosx.in/controllers/siteSetting.controller.js:9:16)
+  }
+]
