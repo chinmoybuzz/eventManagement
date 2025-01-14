@@ -13,11 +13,10 @@ The **Event Management API** is a robust backend service designed to simplify th
 
 ## Tech Stack
 
-- **Backend Framework**: [Your backend framework, e.g., Node.js, Flask, Django]
-- **Database**: [Your database, e.g., PostgreSQL, MongoDB]
-- **Authentication**: [Authentication method, e.g., JWT, OAuth]
-- **Hosting**: [Hosting provider, e.g., AWS, Heroku]
-- **API Documentation**: [Documentation tool, e.g., Swagger, Postman]
+- **Backend Framework**: ExpressJs
+- **Database**:  MongoDB
+- **Authentication**:  JWT, OAuth
+- **API Documentation**: Postman
 
 ## Installation
 
@@ -48,19 +47,19 @@ The **Event Management API** is a robust backend service designed to simplify th
 ## API Endpoints
 
 ### Authentication
-- `POST /api/auth/register`: Register a new user.
-- `POST /api/auth/login`: Log in an existing user.
+- `POST /api/v1/signup`: Register a new user.
+- `POST /api/v1/login`: Log in an existing user.
 
 ### Events
-- `GET /api/events`: Retrieve a list of all events.
-- `POST /api/events`: Create a new event (admin only).
-- `GET /api/events/:id`: Get details of a specific event.
-- `PUT /api/events/:id`: Update event details (admin only).
-- `DELETE /api/events/:id`: Delete an event (admin only).
+- `GET /api/v1/event/list`: Retrieve a list of all events.
+- `POST /api/v1/event/add`: Create a new event (admin only).
+- `GET /api/v1/event/edit/:id`: Get details of a specific event.
+- `PUT /api/v1/events/:id`: Update event details (admin only).
+- `DELETE /api/v1/event/delete`: Delete an event (admin only).
 
 ### Attendees
-- `POST /api/events/:id/register`: Register for an event.
-- `GET /api/events/:id/attendees`: List all attendees for an event (admin only).
+- `POST /api/events/enroll`: Register for an event.
+- `GET /api/events/list`: List all attendees for an event  (admin only).
 
 ## Contributions
 
@@ -69,11 +68,7 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-Feel free to contact us for any queries or suggestions. Happy coding!
+Feel free to contact me for any queries or suggestions. Happy coding!
 
